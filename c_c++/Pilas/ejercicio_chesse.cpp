@@ -82,4 +82,5 @@ void removeElementStack() {
         }
     }
     callMenuStack();
+    
 }
